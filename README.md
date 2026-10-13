@@ -14,6 +14,6 @@
 You can access my portfolio website by visiting [link] feel free to explore the content and get in touch!
 
 ## Contributing
-if you'd like to contribute or suggest improvement, please feel free to open an issue or create a pull rfequest.Your feedback is greatly appriciated.
+If you'd like to contribute or suggest improvement, please feel free to open an issue or create a pull rfequest.Your feedback is greatly appriciated.
 
 Thank you for visiting my portfolio project!A Modern and creative personal portfolio website build using HTML and CSS to showcase my skills, creativity and passion for web development. This project marks the beginning of journey as a web developer.
