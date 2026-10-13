@@ -2,13 +2,13 @@
 
  Welocme to my Portfolio website!I am a beginner web developer passionate about creating simple and attractive websites using HTML and CSS. This portfolio project represents my learning journey in front-end development.
 
-## Technologies Used
-<div>HTML</div>
-<DIV>CSS</DIV>
-
 ## Pages
-<div>Home Page</div>
-<div>Contact Page</div>
+- Home Page: A brief introduction and welcome message.
+- Contact Page: Ways to get touch with me.
+
+## Technologies Used
+- HTML
+- CSS
 
 ## How to view
 You can access my portfolio website by visiting [link] feel free to explore the content and get in touch!
