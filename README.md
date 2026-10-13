@@ -1,4 +1,4 @@
-## MY Portfolio Website
+## My Portfolio Website
 
  Welocme to my Portfolio website!I am a beginner web developer passionate about creating simple and attractive websites using HTML and CSS. This portfolio project represents my learning journey in front-end development.
 
